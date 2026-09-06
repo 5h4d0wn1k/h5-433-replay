@@ -89,9 +89,38 @@ arduino-cli upload --fqbn esp32:esp32:esp32 --port /dev/ttyUSB0 h5_433_replay
 - **W2 — Protocol Fingerprinting**: Analyze captured signals
 - **H12 — Wireless Dead-Drop**: Use HC-12 for covert communication
 
-## Legal Disclaimer
+## IMPORTANT: Read before use.
 
-This tool is for authorized security testing only. Unauthorized interception and replay of signals is illegal. Always obtain permission before testing on devices you don't own.
+This project is provided for **educational and authorized security testing purposes only**.
+
+### Authorization Requirements
+- You MUST have explicit written permission from the device/system owner before testing
+- Use only on devices you own or have explicit authorization to test
+- This tool is designed for research on your own lab equipment only
+
+### Legal Framework
+- **Computer Fraud and Abuse Act (CFAA)**: Unauthorized access to computer systems is a federal crime
+- **Title 18 U.S.C. § 2510 et seq. (Wiretap Act)**: Unauthorized interception of radio/electronic communications is illegal
+- **State Laws**: Many states have additional computer crime and surveillance statutes
+
+### Acceptable Use
+- Research on devices you own (authorized lab bench)
+- Security education and training
+- Academic signal-replay research in controlled environments
+
+### Prohibited Use
+- Intercepting or replaying signals from devices/people without authorization
+- Attacks on infrastructure without authorization
+- Any activity that violates applicable laws or regulations
+
+### No Warranty
+This software is provided "AS IS" without warranty of any kind. The author is not responsible for any misuse or damage caused by this software.
+
+### Responsible Disclosure
+If you discover vulnerabilities using this tool, follow responsible disclosure practices:
+1. Report to the vendor/owner privately
+2. Allow reasonable time for remediation
+3. Do not exploit beyond proof of concept
 
 ## License
 
