@@ -1,6 +1,6 @@
 # ETHICS.md — Educational purpose and authorized use only
 
-**h5\-433\-replay** exists for **education, research, defense, and authorized testing**
+**h5-433-replay** exists for **education, research, defense, and authorized testing**
 — on systems you **own**, or for which you hold **explicit written authorization**
 defining scope and limits. It is not a toolkit for breaking into systems you do
 not control.
